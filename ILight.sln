@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILight.Plugins", "ILight.Plugins.csproj", "{A3EBAF87-FA47-4D48-DA65-18274D74E745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILight", "ILight.csproj", "{B0BA5D8E-CAE5-852F-3765-6E38C2905F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILight.Editor.Plugins", "ILight.Editor.Plugins.csproj", "{50A36C43-CCEC-861D-BA40-B35F447355DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3EBAF87-FA47-4D48-DA65-18274D74E745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EBAF87-FA47-4D48-DA65-18274D74E745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EBAF87-FA47-4D48-DA65-18274D74E745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EBAF87-FA47-4D48-DA65-18274D74E745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BA5D8E-CAE5-852F-3765-6E38C2905F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BA5D8E-CAE5-852F-3765-6E38C2905F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BA5D8E-CAE5-852F-3765-6E38C2905F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BA5D8E-CAE5-852F-3765-6E38C2905F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A36C43-CCEC-861D-BA40-B35F447355DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A36C43-CCEC-861D-BA40-B35F447355DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A36C43-CCEC-861D-BA40-B35F447355DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A36C43-CCEC-861D-BA40-B35F447355DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
